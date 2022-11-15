@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    /* background-color: #E5E5E5; */
+}
+/* .App{
+    width:80%;
+    margin: auto;
+} */
+.nav{
+    background-color: #F55A5A;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 75px;
+}
+.nav > h3{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-left: 5px;
+    font-style: normal;
+    font-size: 19px;
+}
