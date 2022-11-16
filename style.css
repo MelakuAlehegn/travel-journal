@@ -24,3 +24,45 @@ body{
     font-style: normal;
     font-size: 19px;
 }
+.main{
+    margin: 60px 60px;
+    display: flex;
+    padding-left: 40px;
+}
+.travel-image{
+    width: 30%;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+.discription{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.header{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+
+}
+a{
+    color: #918E9B;
+    margin-left: 9px;
+    font-size: 15px;
+}
+.location{
+    margin-left: 9px;
+}
+.title{
+    font-size: 25px;
+    font-weight: 700;
+    color: #2B283A;
+    margin: 0;
+}
+.discription1{
+    margin: 0;
+    max-width: 80%;
+}
+i{
+    color: #F55A5A;
+}
